@@ -48,7 +48,7 @@ These are seeded by default when the server runs:
 
 | Username     | Password | Role         |
 |--------------|----------|--------------|
-| `reception1` | `pass1`  | Receptionist |
+| `reception1` | `pass123`  | Receptionist |
 | `doctor1`    | `pass123`| Doctor       |
 
 ---
