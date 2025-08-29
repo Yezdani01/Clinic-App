@@ -55,7 +55,8 @@ These are seeded by default when the server runs:
 
 ## 📁 Folder Structure
 
-.
+
+```
 ├── config/ # DB connection
 ├── controllers/ # Auth and patient controllers
 ├── middleware/ # JWT and role check
@@ -64,6 +65,7 @@ These are seeded by default when the server runs:
 ├── seed/ # Initial user seed
 ├── main.go # Entry point
 
+```
 
 ---
 
